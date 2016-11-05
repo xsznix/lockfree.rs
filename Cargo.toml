@@ -1,0 +1,6 @@
+[package]
+name = "lockfree"
+version = "0.1.0"
+authors = ["Xuming Zeng <xsznix@gmail.com>"]
+
+[dependencies]
